@@ -1,0 +1,3 @@
+C:/D/Projects/panduka/australia/cpp_1_perons_2/cmake-build-debug/CMakeFiles/cpp_1_perons_2.dir
+C:/D/Projects/panduka/australia/cpp_1_perons_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/D/Projects/panduka/australia/cpp_1_perons_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

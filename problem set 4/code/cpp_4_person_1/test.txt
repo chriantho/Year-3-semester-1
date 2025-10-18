@@ -1,0 +1,141 @@
+Test basic list functions:
+Creating 'dddd' at address 0x6000009107e8
+Creating 'cccc' at address 0x600000910838
+Creating 'eeee' at address 0x600000910888
+Creating 'bbbb' at address 0x6000009108d8
+Creating 'ffff' at address 0x600000910928
+Creating 'aaaa' at address 0x600000910978
+List size: 6
+5th element: eeee
+Deleting 'eeee' at address 0x600000910888
+Remove 5th element.
+New 5th element: ffff
+List size: 5
+Forward iteration:
+aaaa
+bbbb
+cccc
+dddd
+ffff
+Backwards iteration:
+ffff
+dddd
+cccc
+bbbb
+aaaa
+Test basic list functions complete.
+Deleting 'ffff' at address 0x600000910928
+Deleting 'dddd' at address 0x6000009107e8
+Deleting 'cccc' at address 0x600000910838
+Deleting 'bbbb' at address 0x6000009108d8
+Deleting 'aaaa' at address 0x600000910978
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test copy semantics:
+Creating 'dddd' at address 0x6000014cc6f8
+Creating 'cccc' at address 0x6000014cc748
+Creating 'eeee' at address 0x6000014cc798
+Creating 'bbbb' at address 0x6000014cc7e8
+Creating 'ffff' at address 0x6000014cc838
+Creating 'aaaa' at address 0x6000014cc888
+Creating 'aaaa' at address 0x6000014cc888
+Creating 'bbbb' at address 0x6000014cc8d8
+Creating 'cccc' at address 0x6000014cc978
+Creating 'dddd' at address 0x6000014cc9c8
+Creating 'eeee' at address 0x6000014cca18
+Creating 'ffff' at address 0x6000014cca68
+Copied list iteration (source):
+aaaa
+bbbb
+cccc
+dddd
+eeee
+ffff
+Copied list iteration (target):
+aaaa
+bbbb
+cccc
+dddd
+eeee
+ffff
+Deleting 'ffff' at address 0x6000014cc838
+Deleting 'eeee' at address 0x6000014cc798
+Deleting 'dddd' at address 0x6000014cc6f8
+Deleting 'cccc' at address 0x6000014cc748
+Deleting 'bbbb' at address 0x6000014cc7e8
+Deleting 'aaaa' at address 0x6000014cc888
+Creating 'aaaa' at address 0x6000014cc888
+Creating 'bbbb' at address 0x6000014cc7e8
+Creating 'cccc' at address 0x6000014cc748
+Creating 'dddd' at address 0x6000014cc6f8
+Creating 'eeee' at address 0x6000014cc798
+Creating 'ffff' at address 0x6000014cc838
+Copied list iteration (source):
+aaaa
+bbbb
+cccc
+dddd
+eeee
+ffff
+Copied list iteration (target):
+aaaa
+bbbb
+cccc
+dddd
+eeee
+ffff
+Test copy semantics complete.
+Deleting 'ffff' at address 0x6000014cca68
+Deleting 'eeee' at address 0x6000014cca18
+Deleting 'dddd' at address 0x6000014cc9c8
+Deleting 'cccc' at address 0x6000014cc978
+Deleting 'bbbb' at address 0x6000014cc8d8
+Deleting 'aaaa' at address 0x6000014cc888
+Deleting 'ffff' at address 0x6000014cc838
+Deleting 'eeee' at address 0x6000014cc798
+Deleting 'dddd' at address 0x6000014cc6f8
+Deleting 'cccc' at address 0x6000014cc748
+Deleting 'bbbb' at address 0x6000014cc7e8
+Deleting 'aaaa' at address 0x6000014cc888
+
+
+
+
+
+
+
+Test move semantics:
+Creating 'dddd' at address 0x6000036b47e8
+Creating 'cccc' at address 0x6000036b4838
+Creating 'eeee' at address 0x6000036b4888
+Creating 'bbbb' at address 0x6000036b48d8
+Creating 'ffff' at address 0x6000036b4928
+Creating 'aaaa' at address 0x6000036b4978
+Moved list iteration (source):
+Moved list iteration (target):
+aaaa
+bbbb
+cccc
+dddd
+eeee
+ffff
+Test move semantics complete.
+Deleting 'ffff' at address 0x6000036b4928
+Deleting 'eeee' at address 0x6000036b4888
+Deleting 'dddd' at address 0x6000036b47e8
+Deleting 'cccc' at address 0x6000036b4838
+Deleting 'bbbb' at address 0x6000036b48d8
+Deleting 'aaaa' at address 0x6000036b4978
+

@@ -1,0 +1,3 @@
+C:/D/Projects/panduka/australia/3/cpp_3_person_1/cmake-build-debug/CMakeFiles/cpp_3_person_1.dir
+C:/D/Projects/panduka/australia/3/cpp_3_person_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/D/Projects/panduka/australia/3/cpp_3_person_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

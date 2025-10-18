@@ -1,0 +1,15 @@
+# ninja log v6
+4	450	7648653898950259	CMakeFiles/cpp_1_perons_2.dir/main.cpp.obj	7fc9a990446f5982
+451	534	7648653903425671	cpp_1_perons_2.exe	bb42169aab86833d
+4	392	7648653657389738	CMakeFiles/cpp_1_perons_2.dir/Vector3D_PS1.cpp.obj	fd7eeea2ee4552ff
+1	251	7648661468924906	build.ninja	e73e60a0b54b68c5
+5	338	7648646748466961	CMakeFiles/cpp_1_perons_2.dir/Vector2D.cpp.obj	14d66fc01c5fcd0a
+7	338	7648646748488067	CMakeFiles/cpp_1_perons_2.dir/Vector3D.cpp.obj	e56036e8345f9f96
+2	354	7648648851319314	CMakeFiles/cpp_1_perons_2.dir/Matrix3x3.cpp.obj	b336bace1583dc32
+2	239	7648661468924906	build.ninja	e73e60a0b54b68c5
+6	343	7648661469200070	CMakeFiles/cpp_1_perons_2.dir/main.cpp.obj	7fc9a990446f5982
+3	355	7648661469170074	CMakeFiles/cpp_1_perons_2.dir/Matrix3x3_PS1.cpp.obj	4ecef27b6ade011e
+355	450	7648661472687721	cpp_1_perons_2.exe	9a9e69ad196f9d48
+7	339	7648665975505311	CMakeFiles/cpp_1_perons_2.dir/Vector3D_PS1.cpp.obj	fd7eeea2ee4552ff
+11	340	7648665975545314	CMakeFiles/cpp_1_perons_2.dir/Matrix3x3_PS1.cpp.obj	4ecef27b6ade011e
+340	428	7648665978826527	cpp_1_perons_2.exe	9a9e69ad196f9d48

@@ -1,0 +1,6 @@
+# ninja log v6
+3	216	7664013569144148	build.ninja	bf9f99df4290006d
+5	335	7663991445278397	CMakeFiles/cpp_mid.dir/AutoKey.cpp.obj	6704ce06c5aba8d9
+1	349	7663991199333683	CMakeFiles/cpp_mid.dir/main.cpp.obj	8b0240a56dd4cce2
+8	333	7663991445313557	CMakeFiles/cpp_mid.dir/VigenereIterator.cpp.obj	ac5d1f6f1f273345
+335	440	7663991448586436	cpp_mid.exe	a3e680024e47604e
